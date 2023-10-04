@@ -1,6 +1,6 @@
 # ES1_FATEC_2023
 
- <h3>Este projeto possui trabalhos realizados em grupo na matéria:  <br></h3>
+ <h3>Este repositório possui trabalhos realizados em grupo na matéria:  <br></h3>
   • Engenharia de Software I;<br>
 
    <h4>Este projeto tem como foco o desenvolvimento individual e coletivo. Ele representa uma evidência do nosso crescimento e esforço. <br></h4>
